@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.exe
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.deps.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\bin\Debug\netcoreapp3.1\DoublyLinkedLists.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\DoublyLinkedLists\obj\Debug\netcoreapp3.1\DoublyLinkedLists.genruntimeconfig.cache
