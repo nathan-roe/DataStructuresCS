@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
