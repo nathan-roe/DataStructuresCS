@@ -1,0 +1,4 @@
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache

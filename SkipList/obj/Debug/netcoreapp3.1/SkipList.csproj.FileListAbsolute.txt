@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.exe
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.deps.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.runtimeconfig.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.runtimeconfig.dev.json
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\bin\Debug\netcoreapp3.1\SkipList.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.csprojAssemblyReference.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.AssemblyInfoInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.AssemblyInfo.cs
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.dll
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.pdb
+C:\Users\Nathan\Documents\Projects\c#\DataStructures\SkipList\obj\Debug\netcoreapp3.1\SkipList.genruntimeconfig.cache
